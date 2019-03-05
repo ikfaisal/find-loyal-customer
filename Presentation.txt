@@ -1,0 +1,2 @@
+Presentation: https://goo.gl/oE1Sk2
+WebApp: https://find-customer-loyalty.herokuapp.com/#
